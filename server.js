@@ -40,5 +40,5 @@ app.post("/create-checkout-session", async (req, res) => {
     }
 })
 
-app.listen(5001);
+app.listen(5002);
 
